@@ -19,7 +19,7 @@ New lesson code will be added as I progress through the book.
 - [ ] Chapter 7
 - [ ] Chapter 8
 
-I am using gcc version 13.2.0, and notepad++ for this project. The only changes I have made to original lesson code so far is to avoid compiler warnings, eg. :
+I am using gcc version 13.2.0, and notepad++ for this project. The only changes I have made to all the original lesson code so far is to avoid compiler warnings, eg. :
 
 ### Original:
 ```
@@ -37,4 +37,5 @@ int main(){
 }
 ```
 
-I will document any such changes made because of compiler warnings, I imagine a few might pop up as these lessons were written a long time ago.
+I will document all changes or notes on running on Windows vs Linux at the top of each lesson if there are any.
+I imagine a few might pop up as these lessons were written a long time ago, and were also written for Unix.
